@@ -2,7 +2,7 @@
 
 [![ci](https://github.com/github/gh-ost/actions/workflows/ci.yml/badge.svg)](https://github.com/github/gh-ost/actions/workflows/ci.yml) [![replica-tests](https://github.com/github/gh-ost/actions/workflows/replica-tests.yml/badge.svg)](https://github.com/github/gh-ost/actions/workflows/replica-tests.yml) [![downloads](https://img.shields.io/github/downloads/github/gh-ost/total.svg)](https://github.com/github/gh-ost/releases) [![release](https://img.shields.io/github/release/github/gh-ost.svg)](https://github.com/github/gh-ost/releases)
 
-#### GitHub's online schema migration for MySQL <img src="doc/images/gh-ost-logo-light-160.png" align="right">
+#### GitHubs online schema migration for MySQL <img src="doc/images/gh-ost-logo-light-160.png" align="right">
 
  `gh-ost` is a triggerless online schema migration solution for MySQL. It is testable and provides pausability, dynamic control/reconfiguration, auditing, and many operational perks.
 
